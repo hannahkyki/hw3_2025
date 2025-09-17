@@ -45,7 +45,7 @@ nav a:hover, nav a:focus {
 
 .accounts-image, .onlinebanking-image, .security-image, .loans-image, .contact-image {
      grid-column: 1 / span 5;
-     max-height: 600px;
+     max-height: 675px;
      overflow: hidden;
 }
 
